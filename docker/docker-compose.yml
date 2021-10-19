@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  wiremock:
+    image: rodolpheche/wiremock
+    container_name: wiremock
+    volumes:
+      - ./__files:/home/wiremock/__files
+      - ./mappings:/home/wiremock/mappings
+    ports:
+      - 8181:8080

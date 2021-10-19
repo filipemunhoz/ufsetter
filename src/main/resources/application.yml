@@ -1,0 +1,10 @@
+logging:
+  level:
+    root: DEBUG
+    
+custom:
+  rest:
+    connection:
+      timeout: 3000
+      readtimeout: 3000
+      retry: 3000

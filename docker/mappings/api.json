@@ -1,0 +1,13 @@
+ {
+   "request": {
+       "url": "/data/341/7069",
+       "method": "GET"
+     },
+     "response": {
+       "status": 200,
+       "body": "{ \"uf\": \"AC\" }",
+       "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  }
