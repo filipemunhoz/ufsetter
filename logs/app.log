@@ -1,0 +1,72 @@
+16:37:29.785 [http-nio-8080-exec-1] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:29.793 [http-nio-8080-exec-1] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:30.669 [http-nio-8080-exec-2] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:30.671 [http-nio-8080-exec-2] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:31.208 [http-nio-8080-exec-3] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:31.210 [http-nio-8080-exec-3] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:31.641 [http-nio-8080-exec-4] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:31.644 [http-nio-8080-exec-4] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:31.953 [http-nio-8080-exec-5] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:31.955 [http-nio-8080-exec-5] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:32.223 [http-nio-8080-exec-6] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:32.231 [http-nio-8080-exec-6] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:32.433 [http-nio-8080-exec-7] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:32.442 [http-nio-8080-exec-7] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:32.633 [http-nio-8080-exec-8] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:32.638 [http-nio-8080-exec-8] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:32.879 [http-nio-8080-exec-9] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:32.883 [http-nio-8080-exec-9] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:33.153 [http-nio-8080-exec-10] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:33.162 [http-nio-8080-exec-10] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:33.360 [http-nio-8080-exec-1] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:33.368 [http-nio-8080-exec-1] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:33.518 [http-nio-8080-exec-2] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:33.521 [http-nio-8080-exec-2] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:33.730 [http-nio-8080-exec-3] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:33.732 [http-nio-8080-exec-3] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:33.954 [http-nio-8080-exec-4] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:33.963 [http-nio-8080-exec-4] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:34.130 [http-nio-8080-exec-5] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:34.138 [http-nio-8080-exec-5] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:34.333 [http-nio-8080-exec-6] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:34.340 [http-nio-8080-exec-6] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:34.685 [http-nio-8080-exec-7] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:34.688 [http-nio-8080-exec-7] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:34.914 [http-nio-8080-exec-8] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:34.916 [http-nio-8080-exec-8] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:35.140 [http-nio-8080-exec-9] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:35.147 [http-nio-8080-exec-9] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:35.335 [http-nio-8080-exec-10] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:35.343 [http-nio-8080-exec-10] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:35.566 [http-nio-8080-exec-1] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:35.574 [http-nio-8080-exec-1] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:35.814 [http-nio-8080-exec-2] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:35.824 [http-nio-8080-exec-2] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:36.017 [http-nio-8080-exec-3] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:36.019 [http-nio-8080-exec-3] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:36.265 [http-nio-8080-exec-4] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:36.273 [http-nio-8080-exec-4] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:37:36.525 [http-nio-8080-exec-5] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+16:37:36.527 [http-nio-8080-exec-5] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+16:54:45.273 [main] INFO  com.br.data.DataApplication - Starting DataApplication using Java 11.0.11 on device-G7-7588 with PID 414764 (/home/fcmunhoz/Documents/workspace-java/ufsetter/target/classes started by fcmunhoz in /home/fcmunhoz/Documents/workspace-java/ufsetter)
+16:54:45.274 [main] INFO  com.br.data.DataApplication - No active profile set, falling back to default profiles: default
+16:54:45.869 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+16:54:45.876 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+16:54:45.876 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+16:54:45.876 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.53]
+16:54:45.912 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+16:54:45.912 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 611 ms
+16:54:46.243 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+16:54:46.252 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+16:54:46.259 [main] INFO  com.br.data.DataApplication - Started DataApplication in 1.235 seconds (JVM running for 1.516)
+16:54:55.525 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+16:54:55.528 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+16:54:55.528 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+16:54:55.547 [http-nio-8080-exec-1] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+16:55:05.573 [http-nio-8080-exec-2] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+16:55:06.712 [http-nio-8080-exec-4] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+16:55:07.480 [http-nio-8080-exec-6] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+16:55:07.944 [http-nio-8080-exec-8] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+16:55:08.378 [http-nio-8080-exec-10] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+16:55:09.054 [http-nio-8080-exec-2] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+16:55:09.512 [http-nio-8080-exec-4] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck

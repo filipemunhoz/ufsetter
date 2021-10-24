@@ -9,6 +9,8 @@ import javax.ws.rs.client.Invocation;
 import javax.ws.rs.client.WebTarget;
 import javax.ws.rs.core.Response;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.MediaType;
@@ -18,12 +20,12 @@ import org.springframework.web.client.RestTemplate;
 import com.br.data.response.DataResponse;
 
 import lombok.RequiredArgsConstructor;
-import lombok.extern.slf4j.Slf4j;
 
-@Slf4j
 @Service
 @RequiredArgsConstructor
 public class DataServiceImpl {
+	
+	private final Logger logger = LoggerFactory.getLogger(this.getClass());
 	
 	@Autowired
 	private RestTemplate restTemplate;
@@ -32,7 +34,7 @@ public class DataServiceImpl {
 	
 	public DataResponse getData(final String bankId, final String branchId) {
 		
-		log.info("Executing API");
+		logger.info("10005 - getData");
 		
 		final HttpEntity<DataResponse> response = restTemplate.getForEntity("http://localhost:8181/data/" + bankId + "/" + branchId, DataResponse.class);
 		return response.getBody();
@@ -40,10 +42,10 @@ public class DataServiceImpl {
 	
 	public DataResponse getDataJax(final String bankId, final String branchId) {
 		
-		log.info("JAX-RS Client with Jersey");
+		logger.info("10006 - JAX-RS Client with Jersey");
 		Client client = ClientBuilder.newClient();
 		
-		WebTarget webTarget = client.target("http://localhost:8181/data/" + bankId + "/" + branchId);
+		WebTarget webTarget = client.	target("http://localhost:8181/data/" + bankId + "/" + branchId);
 		Invocation.Builder invocationBuilder = webTarget.request(MediaType.APPLICATION_JSON.toString());
 		
 		Response response = invocationBuilder.get();
