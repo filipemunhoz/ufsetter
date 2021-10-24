@@ -34,6 +34,7 @@ public class DataController {
 	@Setter
 	private DataServiceImpl dataServiceImpl;
 	
+	@LogExecutionTime
 	@PostMapping(path="/data", consumes=MediaType.APPLICATION_JSON_VALUE, produces=MediaType.APPLICATION_JSON_VALUE)
 	public ResponseEntity<DataResponse> postData(@RequestBody DataRequest request) {
 		
@@ -44,6 +45,7 @@ public class DataController {
 		return new ResponseEntity<>(response, HttpStatus.CREATED);
 	}
 	
+	@LogExecutionTime
 	@GetMapping(path="/data/{bankId}/{branchId}", produces=MediaType.APPLICATION_JSON_VALUE)
 	@ResponseStatus(HttpStatus.OK)
 	public String getData(@PathVariable String bankId, @PathVariable String branchId) {

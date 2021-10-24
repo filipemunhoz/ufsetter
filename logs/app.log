@@ -70,3 +70,113 @@
 16:55:08.378 [http-nio-8080-exec-10] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
 16:55:09.054 [http-nio-8080-exec-2] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
 16:55:09.512 [http-nio-8080-exec-4] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+17:04:08.577 [main] INFO  com.br.data.DataApplication - Starting DataApplication using Java 11.0.11 on device-G7-7588 with PID 416107 (/home/fcmunhoz/Documents/workspace-java/ufsetter/target/classes started by fcmunhoz in /home/fcmunhoz/Documents/workspace-java/ufsetter)
+17:04:08.578 [main] INFO  com.br.data.DataApplication - No active profile set, falling back to default profiles: default
+17:04:09.152 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:04:09.158 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+17:04:09.158 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:04:09.158 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.53]
+17:04:09.193 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:04:09.194 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 590 ms
+17:04:09.540 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+17:04:09.549 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:04:09.556 [main] INFO  com.br.data.DataApplication - Started DataApplication in 1.22 seconds (JVM running for 1.502)
+17:04:15.296 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:04:15.296 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:04:15.297 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+17:04:15.316 [http-nio-8080-exec-1] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+17:04:39.368 [main] INFO  com.br.data.DataApplication - Starting DataApplication using Java 11.0.11 on device-G7-7588 with PID 416211 (/home/fcmunhoz/Documents/workspace-java/ufsetter/target/classes started by fcmunhoz in /home/fcmunhoz/Documents/workspace-java/ufsetter)
+17:04:39.372 [main] INFO  com.br.data.DataApplication - No active profile set, falling back to default profiles: default
+17:04:39.984 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:04:39.991 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+17:04:39.991 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:04:39.991 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.53]
+17:04:40.028 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:04:40.028 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 629 ms
+17:04:40.338 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+17:04:40.347 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:04:40.353 [main] INFO  com.br.data.DataApplication - Started DataApplication in 1.24 seconds (JVM running for 1.517)
+17:04:41.579 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:04:41.579 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:04:41.580 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+17:04:41.595 [http-nio-8080-exec-1] INFO  com.br.data.aop.LoggerAspect - Enter: com.br.data.controller.DataController.healthCheck() with argument[s] = []
+17:04:41.600 [http-nio-8080-exec-1] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+17:04:43.953 [http-nio-8080-exec-2] INFO  com.br.data.aop.LoggerAspect - Enter: com.br.data.controller.DataController.healthCheck() with argument[s] = []
+17:04:43.953 [http-nio-8080-exec-2] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+17:13:21.540 [main] INFO  com.br.data.DataApplication - Starting DataApplication using Java 11.0.11 on device-G7-7588 with PID 416941 (/home/fcmunhoz/Documents/workspace-java/ufsetter/target/classes started by fcmunhoz in /home/fcmunhoz/Documents/workspace-java/ufsetter)
+17:13:21.544 [main] INFO  com.br.data.DataApplication - No active profile set, falling back to default profiles: default
+17:13:22.141 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:13:22.148 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+17:13:22.148 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:13:22.148 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.53]
+17:13:22.184 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:13:22.184 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 615 ms
+17:13:22.506 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+17:13:22.516 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:13:22.523 [main] INFO  com.br.data.DataApplication - Started DataApplication in 1.232 seconds (JVM running for 1.499)
+17:13:27.646 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:13:27.647 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:13:27.648 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+17:13:27.668 [http-nio-8080-exec-1] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+17:13:27.668 [http-nio-8080-exec-1] INFO  com.br.data.aop.LoggerAspect - Map com.br.data.controller.DataController.healthCheck() executed in 4ms
+17:13:54.416 [main] INFO  com.br.data.DataApplication - Starting DataApplication using Java 11.0.11 on device-G7-7588 with PID 417051 (/home/fcmunhoz/Documents/workspace-java/ufsetter/target/classes started by fcmunhoz in /home/fcmunhoz/Documents/workspace-java/ufsetter)
+17:13:54.420 [main] INFO  com.br.data.DataApplication - No active profile set, falling back to default profiles: default
+17:13:55.005 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+17:13:55.011 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+17:13:55.011 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+17:13:55.011 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.53]
+17:13:55.047 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+17:13:55.047 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 600 ms
+17:13:55.363 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+17:13:55.373 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+17:13:55.383 [main] INFO  com.br.data.DataApplication - Started DataApplication in 1.229 seconds (JVM running for 1.504)
+17:13:58.770 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+17:13:58.771 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+17:13:58.772 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+17:13:58.791 [http-nio-8080-exec-1] INFO  c.br.data.controller.DataController - 10003 - Calling /healthcheck
+17:13:58.791 [http-nio-8080-exec-1] INFO  com.br.data.aop.LoggerAspect - Map com.br.data.controller.DataController.healthCheck() executed in 4ms
+17:14:01.524 [http-nio-8080-exec-2] INFO  c.br.data.controller.DataController - 10001 - Calling POST /data
+17:14:01.524 [http-nio-8080-exec-2] INFO  c.br.data.controller.DataController - 10002 - End of POST /data
+17:14:01.524 [http-nio-8080-exec-2] INFO  com.br.data.aop.LoggerAspect - ResponseEntity com.br.data.controller.DataController.postData(DataRequest) executed in 0ms
+17:14:05.212 [http-nio-8080-exec-4] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+17:14:05.331 [http-nio-8080-exec-4] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+17:14:05.421 [http-nio-8080-exec-4] INFO  com.br.data.aop.LoggerAspect - String com.br.data.controller.DataController.getData(String,String) executed in 209ms
+17:54:33.621 [http-nio-8080-exec-5] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+17:54:33.625 [http-nio-8080-exec-5] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+17:54:33.643 [http-nio-8080-exec-5] INFO  com.br.data.aop.LoggerAspect - String com.br.data.controller.DataController.getData(String,String) executed in 22ms
+17:54:40.414 [http-nio-8080-exec-6] INFO  com.br.data.service.DataServiceImpl - 10006 - JAX-RS Client with Jersey
+17:54:40.420 [http-nio-8080-exec-6] WARN  o.g.j.m.internal.MessagingBinders - A class javax.activation.DataSource for a default provider MessageBodyWriter<javax.activation.DataSource> was not found. The provider is not available.
+17:54:40.434 [http-nio-8080-exec-6] INFO  com.br.data.aop.LoggerAspect - String com.br.data.controller.DataController.getData(String,String) executed in 20ms
+17:54:48.266 [http-nio-8080-exec-7] INFO  c.br.data.controller.DataController - 10001 - Calling POST /data
+17:54:48.266 [http-nio-8080-exec-7] INFO  c.br.data.controller.DataController - 10002 - End of POST /data
+17:54:48.266 [http-nio-8080-exec-7] INFO  com.br.data.aop.LoggerAspect - ResponseEntity com.br.data.controller.DataController.postData(DataRequest) executed in 0ms
+17:54:58.530 [http-nio-8080-exec-9] INFO  c.br.data.controller.DataController - 10001 - Calling POST /data
+17:54:58.532 [http-nio-8080-exec-9] INFO  c.br.data.controller.DataController - 10002 - End of POST /data
+17:54:58.532 [http-nio-8080-exec-9] INFO  com.br.data.aop.LoggerAspect - ResponseEntity com.br.data.controller.DataController.postData(DataRequest) executed in 2ms
+17:55:00.140 [http-nio-8080-exec-1] INFO  c.br.data.controller.DataController - 10001 - Calling POST /data
+17:55:00.140 [http-nio-8080-exec-1] INFO  c.br.data.controller.DataController - 10002 - End of POST /data
+17:55:00.141 [http-nio-8080-exec-1] INFO  com.br.data.aop.LoggerAspect - ResponseEntity com.br.data.controller.DataController.postData(DataRequest) executed in 1ms
+17:55:01.316 [http-nio-8080-exec-3] INFO  c.br.data.controller.DataController - 10001 - Calling POST /data
+17:55:01.316 [http-nio-8080-exec-3] INFO  c.br.data.controller.DataController - 10002 - End of POST /data
+17:55:01.317 [http-nio-8080-exec-3] INFO  com.br.data.aop.LoggerAspect - ResponseEntity com.br.data.controller.DataController.postData(DataRequest) executed in 1ms
+17:55:05.024 [http-nio-8080-exec-5] INFO  c.br.data.controller.DataController - 10001 - Calling POST /data
+17:55:05.024 [http-nio-8080-exec-5] INFO  c.br.data.controller.DataController - 10002 - End of POST /data
+17:55:05.024 [http-nio-8080-exec-5] INFO  com.br.data.aop.LoggerAspect - ResponseEntity com.br.data.controller.DataController.postData(DataRequest) executed in 0ms
+17:55:05.664 [http-nio-8080-exec-7] INFO  c.br.data.controller.DataController - 10001 - Calling POST /data
+17:55:05.664 [http-nio-8080-exec-7] INFO  c.br.data.controller.DataController - 10002 - End of POST /data
+17:55:05.664 [http-nio-8080-exec-7] INFO  com.br.data.aop.LoggerAspect - ResponseEntity com.br.data.controller.DataController.postData(DataRequest) executed in 0ms
+17:55:06.096 [http-nio-8080-exec-9] INFO  c.br.data.controller.DataController - 10001 - Calling POST /data
+17:55:06.096 [http-nio-8080-exec-9] INFO  c.br.data.controller.DataController - 10002 - End of POST /data
+17:55:06.096 [http-nio-8080-exec-9] INFO  com.br.data.aop.LoggerAspect - ResponseEntity com.br.data.controller.DataController.postData(DataRequest) executed in 0ms
+17:55:06.564 [http-nio-8080-exec-1] INFO  c.br.data.controller.DataController - 10001 - Calling POST /data
+17:55:06.564 [http-nio-8080-exec-1] INFO  c.br.data.controller.DataController - 10002 - End of POST /data
+17:55:06.564 [http-nio-8080-exec-1] INFO  com.br.data.aop.LoggerAspect - ResponseEntity com.br.data.controller.DataController.postData(DataRequest) executed in 0ms
+17:55:06.940 [http-nio-8080-exec-3] INFO  c.br.data.controller.DataController - 10001 - Calling POST /data
+17:55:06.940 [http-nio-8080-exec-3] INFO  c.br.data.controller.DataController - 10002 - End of POST /data
+17:55:06.940 [http-nio-8080-exec-3] INFO  com.br.data.aop.LoggerAspect - ResponseEntity com.br.data.controller.DataController.postData(DataRequest) executed in 0ms
+17:55:07.266 [http-nio-8080-exec-5] INFO  c.br.data.controller.DataController - 10001 - Calling POST /data
+17:55:07.266 [http-nio-8080-exec-5] INFO  c.br.data.controller.DataController - 10002 - End of POST /data
+17:55:07.266 [http-nio-8080-exec-5] INFO  com.br.data.aop.LoggerAspect - ResponseEntity com.br.data.controller.DataController.postData(DataRequest) executed in 0ms
+17:55:07.525 [http-nio-8080-exec-7] INFO  c.br.data.controller.DataController - 10001 - Calling POST /data
+17:55:07.525 [http-nio-8080-exec-7] INFO  c.br.data.controller.DataController - 10002 - End of POST /data
+17:55:07.526 [http-nio-8080-exec-7] INFO  com.br.data.aop.LoggerAspect - ResponseEntity com.br.data.controller.DataController.postData(DataRequest) executed in 1ms
