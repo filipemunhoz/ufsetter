@@ -1,5 +1,6 @@
 package com.br.data.service;
 
+import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 
@@ -55,7 +56,7 @@ public class DataServiceImpl {
 
 	public <Optional>String geraString() {
 		Random rand = new Random();
-		List<String> estados = List.of("SP","RJ","MG","AC","RS","MT");
+		List<String> estados = Arrays.asList("SP","RJ","MG","AC","RS","MT");
 		
 		agencias.append("7069SP");
 		for(int i=0; i<9000; i++) {
